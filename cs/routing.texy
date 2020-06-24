@@ -521,7 +521,7 @@ Přesměrování celého webu na HTTPS je nutné nastavit na úrovni serveru, na
 </IfModule>
 ```
 
-Routy generují URL se stejným protokolem, s jakým byla stránka načtena, takže nic víc není pořeba nastavovat.
+Routy generují URL se stejným protokolem, s jakým byla stránka načtena, takže nic víc není potřeba nastavovat.
 
 Pokud ale vyjímečně potřebujeme, aby jednotlivé routy běžely pod různými protokoly, uvedeme ho v masce routy:
 
